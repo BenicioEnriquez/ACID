@@ -1,0 +1,9 @@
+--2023-01-23 16:40:38--  http://mirrors.kernel.org/ubuntu/pool/main/libf/libffi/libffi6_3.2.1-8_amd64.deb
+Resolving mirrors.kernel.org (mirrors.kernel.org)... 139.178.88.99, 43.247.170.1, 96.45.81.1, ...
+Connecting to mirrors.kernel.org (mirrors.kernel.org)|139.178.88.99|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://mirrors.edge.kernel.org/ubuntu/pool/main/libf/libffi/libffi6_3.2.1-8_amd64.deb [following]
+--2023-01-23 16:40:38--  http://mirrors.edge.kernel.org/ubuntu/pool/main/libf/libffi/libffi6_3.2.1-8_amd64.deb
+Resolving mirrors.edge.kernel.org (mirrors.edge.kernel.org)... 43.247.170.1, 96.45.81.1, 46.31.237.1, ...
+Connecting to mirrors.edge.kernel.org (mirrors.edge.kernel.org)|43.247.170.1|:80... failed: Connection timed out.
+Connecting to mirrors.edge.kernel.org (mirrors.edge.kernel.org)|96.45.81.1|:80... 
